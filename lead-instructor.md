@@ -7,7 +7,7 @@ Code schools have redefined tech education, now we're redefining the academic fa
 
 * 6+ weeks a year to contribute to tech and tech communities you love (or build your own!) through open source projects and contributions, tech research, and/or speaking engagements.
 
-* Apply technology innovations to real projects in our App Lab consultancy. We are guiding our grads to building MVP apps for local entrepreneurs.
+* Apply technology innovations to real projects in our App Lab consultancy. Our grads build build real MVP apps for local entrepreneurs.
 
 This is an opportunity to impact people's lives, Portland's economy, and the technology community!
 
