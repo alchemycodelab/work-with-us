@@ -15,7 +15,7 @@ This is an opportunity to impact people's lives, Portland's economy, and the tec
 
 ### Tech
 
-We're looking for people with significant work experience in the technologies we teach.
+Practical application in very important, we're looking for people with significant work experience in the technologies we teach. 
 
 ### Communication
 
@@ -23,8 +23,7 @@ You need to be a good communicator, especially in breaking-down and explaining t
 
 ### Empathy
 
-Our program is intense and demanding and we train the whole software developer. It's hard work for students and we need to be clear about how there are doing. Respect and
-compassion are needed, along with integrity and honesty.
+Our program is intense and demanding and we train the whole software developer. It's hard work for students and we need to be clear about how there are doing. Respect and compassion are needed, along with integrity and honesty.
 
 ## Curriculum
 
@@ -32,11 +31,22 @@ We are part of the _Powered By Code Fellows Network_, using curriculum that has 
 
 ## Technologies
 
-We are currently looking people with significant work experience in these areas:
+We are currently looking for the following instructor positions:
 
+### Frontend Development
+
+* _Web Development/Devsign_: Very strong with html, css and UI/UX FTW!
+   * Solid browser layout and design aesthetics
+   * Semantic Html, Web Animations and Transitions, Image and Font Optimization, Accessibility
 * _React/Redux_ (Vue and Ember okay if you are willing to learn React) and _advanced modern JavaScript_
-* _Web Development/Devsign_: html, css and UI/UX FTW!
 * Strong _agile engineering_ practices
 * Nice to have:
     * Serverless (Google and AWS)
     * Backend JavaScript (Express, Mongoose, MongoDB)
+    
+### FullStack JavaScript
+
+* Server-side JavaScript: NodeJS, Vanilla TCP/HTTP, ExpressJS, Mongoose, MongoDB, Postgres
+* Modern JavaScript: EventEmitters, Promises, async/await, light functional programming, ESNext syntax
+* Front-end _React/Redux_ or similar component-based architecture (Angular2, Ember, Vue)
+* Cloud based deployment using Heroku, AWS, Next, or similar
