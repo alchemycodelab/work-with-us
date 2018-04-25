@@ -55,4 +55,4 @@ We are currently looking for the following instructor positions:
 
 ## Interested?
 
-If this sounds interesting or intriguing, please send us an email at [workwithus@alchemycodelab.com](mailto:workwithus@alchemycodelab.com)
+If this sounds interesting or intriguing, please email us at [workwithus@alchemycodelab.com](mailto:workwithus@alchemycodelab.com)
