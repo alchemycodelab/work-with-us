@@ -17,7 +17,7 @@ This is an opportunity to impact people's lives, Portland's economy, and the tec
 
 ### Tech
 
-Practical application in very important, we're looking for people with significant work experience in the technologies we teach who can relate personal stories to students. 
+Practical application in very important, we're looking for people with significant work experience in the technologies we teach who can relate personal stories to students. We are also looking for people contributing, or wanting to contribute, to the tech ecosystem in which they are working.
 
 ### Communication
 
