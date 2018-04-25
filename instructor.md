@@ -1,7 +1,7 @@
 Instructors at Alchemy Code Lab
 ===
 
-Alchemy Code Lab is looking for full-time and contract Instructors.
+Alchemy Code Lab is looking for full-time and contract instructors.
 
 Code schools have redefined tech education, now we're redefining the academic faculty experience! Come work with us:
 
