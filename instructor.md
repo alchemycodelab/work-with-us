@@ -52,3 +52,7 @@ We are currently looking for the following instructor positions:
 * Modern JavaScript: EventEmitters, Promises, async/await, light functional programming, ESNext syntax
 * Front-end _React/Redux_ or similar component-based architecture (Angular2, Ember, Vue)
 * Cloud based deployment using Heroku, AWS, Next, or similar
+
+## Interested?
+
+If this sounds interesting or intriguing, please send us an email at [workwithus@alchemycodelab.com](mailto:workwithus@alchemycodelab.com)
