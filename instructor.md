@@ -1,9 +1,12 @@
 Instructors at Alchemy Code Lab
 ===
 
-Alchemy Code Lab is looking for full-time and contract instructors.
+**Alchemy Code Lab is looking for full-time and contract instructors.**
 
-Code schools have redefined tech education, now we're redefining the academic faculty experience! Come work with us:
+* *Ever dream of working at a place where you had the opportunity to advance the careers and change the lives of talented, hardworking and bright students through teaching. You were able to work on cool apps at a consultancy. AND still have time to keep up to date with new technologies or work on your open source projects and still have the same salary as a senior software developer? Look no further! This is the place for you to be.* *
+
+**We’re redefining the academic faculty experience! Join us!
+We are committed to closing the tech-gap for women & minorities in all we do, and providing great talent to the Portland tech community.**
 
 * Primary responsibility is to provide advanced instruction and mentoring for people transitioning to a career as a software developer. We offer the most advanced training in Portland, our grads are ready to be contributors, not project/opportunity hires.
 
@@ -25,13 +28,13 @@ You need to be a good communicator, especially in breaking-down and explaining t
 
 ### Empathy
 
-Our program is intense and demanding and we train the whole software developer. It's hard work for students and we need to be clear about how there are doing. Respect and compassion are needed, along with integrity and honesty.
+Our program is intense and demanding and we train the whole software developer. It's hard work for students and we need to be clear about how they are doing. Respect and compassion are needed, along with integrity and honesty.
 
-## Curriculum
+### Curriculum
 
 We are part of the _Powered By Code Fellows Network_, using curriculum that has placed thousands of students into jobs yet is always evolving to stay current.
 
-## Technologies
+### Technologies
 
 We are currently looking for the following instructor positions:
 
@@ -53,6 +56,6 @@ We are currently looking for the following instructor positions:
 * Front-end _React/Redux_ or similar component-based architecture (Angular2, Ember, Vue)
 * Cloud based deployment using Heroku, AWS, Next, or similar
 
-## Interested?
+### Interested?
 
 If this sounds interesting or intriguing, please email us at [workwithus@alchemycodelab.com](mailto:workwithus@alchemycodelab.com)
