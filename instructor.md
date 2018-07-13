@@ -3,7 +3,7 @@ Instructors at Alchemy Code Lab
 
 **Alchemy Code Lab is looking for full-time and contract instructors.**
 
-* *Ever dream of working at a place where you had the opportunity to advance the careers and change the lives of talented, hardworking and bright students through teaching. You were able to work on cool apps at a consultancy. AND still have time to keep up to date with new technologies or work on your open source projects and still have the same salary as a senior software developer? Look no further! This is the place for you to be.* *
+_ _Ever dream of working at a place where you had the opportunity to advance the careers and change the lives of talented, hardworking and bright students through teaching. You were able to work on cool apps at a consultancy. AND still have time to keep up to date with new technologies or work on your open source projects and still have the same salary as a senior software developer? Look no further! This is the place for you to be._ _
 
 **We’re redefining the academic faculty experience! Join us!
 We are committed to closing the tech-gap for women & minorities in all we do, and providing great talent to the Portland tech community.**
