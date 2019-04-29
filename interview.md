@@ -1,7 +1,11 @@
 # Interviewing at Alchemy
 
-Beyond normal interview discussions, we ask prospective candidates to complete the following tasks below as
-part of our interview process.
+We ask prospective candidates to do the activites below as
+part of our interview process. There is flexibility in ordering of steps
+and are usually done on different days.
+
+Our process is designed for us to observe you "in the wild" as well as an opportunity
+for you to get a sense of what the job is like "for real".
 
 ## Short How-To Lecture
 
@@ -24,12 +28,24 @@ Remember we are a vocational school and the goal of instruction is to enable peo
 
 ## Guest Lecture
 
-A one hour guest lecture in front of a class on a topic relevant to their curriculum. We will work with you to pick a topic.
+A one hour guest lecture in front of a class on a topic relevant to their curriculum. We will work with you to pick a topic
+appropriate for the class. _We will compensate you with a $50 Powell's Gift Card for your time._
 
 ### Why?
 
 We want to see how you handle yourself in front of real class. Requires organization, curration and time manangement. 
 Also let's us see how you interact with students as well as their response to you.
+
+## Lab Time
+
+We would look for you to spend an hour with each of our classes (this can be done back-to-back) during lab time. This entails
+reading the room, asking students prompting questions, and working directly with students who need help.
+_We will compensate you with a $100 Powell's Gift Card for your time._
+
+### Why?
+
+We want to see how you read a room, approach students and interact one-on-one. We also are looking to see how you guide 
+students through issues as well as provide corrective feedback.
 
 ## Code Deep-Dive
 
@@ -40,3 +56,11 @@ code, blog post, or an open source project as well. Imagine we are new developer
 
 We want to get a sense of who you are as a technologist. How you talk about code, field questions, and 
 what you are interested in technically.
+
+## Interviews
+
+Interview time with staff including School Director, Career Services Director, and Instructors
+
+### Why?
+
+Get to know the team and have the team get to know you.
