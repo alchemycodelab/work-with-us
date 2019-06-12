@@ -1,6 +1,6 @@
-# Alchemy Is Hiring a Web Instructor/Developer!
+# Alchemy Is Hiring a Web Developer/Instructor!
 
-Want to help shape what web design and development means for a new generation of developers? Do you get excited about crafting accessible UI/UX? If you answered yes, Alchemy is hiring a Developer Instructor and we’d love to talk with you!
+Want to help shape what web design and development means for a new generation of developers? Do you get excited about crafting accessible UI/UX? If so, Alchemy is hiring a Developer/Instructor and we’d love to talk with you!
 
 You’ve made a big impact at your job, now it’s time to make a big impact in the community.
 
@@ -8,7 +8,7 @@ This position involves both instruction and design/development for our in-house 
 
 We have a strong history and commitment to running an inclusive program and boosting women, minorities, and other untapped talent into strong starting tech roles. Our team is invested in helping each student through their career transition, and we get a lot of satisfaction when they land their first role in tech. It’s why we do what we do, and fuels us to be excited to go to work each day. We hope you feel the same!
 
-We also run an in-house consultancy called “AppLab”, building MVP apps for entrepreneurs and startups targeting both web and mobile, backed by serverless technologies. It provides a great outlet for you to stay connected to developing technology projects while helping others realize their ideas.
+We also run an in-house consultancy, called “AppLab”, building MVP apps for entrepreneurs and startups targeting both web and mobile, backed by serverless technologies. It provides a great outlet for you to stay connected to developing technology projects while helping others realize their ideas.
 
 You need to be an experienced designer/developer backed by real world experience. This position allows you to shape future software developers while being engaged in an incredible community. In addition to teaching, we’d also love to support your work on open source or passion projects. 
 
@@ -22,7 +22,6 @@ Technically, we’re looking for someone with plenty of real world experience us
 * Strong craft ethic and/or agile engineering practices
 * Vanilla JavaScript, bonus for VueJS or React. 
 * Missing anything above? Looking for a willingness to learn what you don't know.
-
 
 We’re also very interested in diversifying our own staff and would like it even better if you identify with an underrepresented group.
 
@@ -59,7 +58,6 @@ Here’s what we see your first few months looking like:
 - Provide advanced "devsign" instruction for Career Track students
 - Help evangelize Alchemy and support our mission of inclusivity in tech
 - Attend conferences or make a significant release of your open source project
-
 
 Interested? Please email us at workwithus@alchemycodelab.com
 
