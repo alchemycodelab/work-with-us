@@ -1,64 +1,66 @@
+# Interviewing at Alchemy
 
-Want to help shape what web design and development means for a new generation of developers? Do you get excited about crafting accessible UI/UX? If you answered yes, Alchemy is hiring a Developer Instructor and we’d love to talk with you!
+We ask prospective candidates to do the activites below as
+part of our interview process. There is flexibility in ordering of steps
+and are usually done on different days.
 
-You’ve made a big impact at your job, now it’s time to make a big impact in the community.
+Our process is designed for us to observe you "in the wild" as well as an opportunity
+for you to get a sense of what the job is like "for real".
 
-This position involves both instruction and design/development for our in-house consultancy. You do not need prior instruction experience, but should be kind, empathetic and patient as well as a strong communicator. Ability to mentor EQ, with good listening and cheerleader skills.
+## Short How-To Lecture
 
-We have a strong history and commitment to running an inclusive program and boosting women, minorities, and other untapped talent into strong starting tech roles. Our team is invested in helping each student through their career transition, and we get a lot of satisfaction when they land their first role in tech. It’s why we do what we do, and fuels us to be excited to go to work each day. We hope you feel the same!
+A 15 minute lecture/how-to on a non-technical topic in front of Alchemy staff. Often works well to choose a 
+hobby or passion you have outside of tech.
 
-We also run an in-house consultancy called “AppLab”, building MVP apps for entrepreneurs and startups targeting both web and mobile, backed by serverless technologies. It provides a great outlet for you to stay connected to developing technology projects while helping others realize their ideas.
+### Why?
 
-You need to be an experienced designer/developer backed by real world experience. This position allows you to shape future software developers while being engaged in an incredible community. In addition to teaching, we’d also love to support your work on open source or passion projects. 
+We are looking to see how you process and organize information as well as your ability to "unpack" or take the 
+audience through the information. We ask you to pick a non-technical topic in order to have you engage new material
+versus a topic you may already be very familiar with presenting, and to make the topic accessible for our non-instructional 
+staff who will help evaluate.
 
-Bonus if you are a prepared and organized person.
+This is also our first chance to see your demeaner and presentation style.
 
-Technically, we’re looking for someone with plenty of real world experience using HTML and CSS for web sites and web apps:
-* Solid browser layout and design aesthetics (RWD, Flexbox, CSS Grid)
-* Semantic and Accessible Web
-* Web Animations and Transitions
-* Image and Font Optimization
-* Strong craft ethic and/or agile engineering practices
-* Vanilla JavaScript, bonus for VueJS or React. 
-* Missing anything above? Looking for a willingness to learn what you don't know.
+### Hints
 
+Expect the question "What sort of exercises should you have students do to learn this material?" at the end of your talk.
+Remember we are a vocational school and the goal of instruction is to enable people to do things.
 
-We’re also very interested in diversifying our own staff and would like it even better if you identify with an underrepresented group.
+## Guest Lecture
 
-Here’s what we see your first few months looking like:
+A one hour guest lecture in front of a class on a topic relevant to their curriculum. We will work with you to pick a topic
+appropriate for the class. _We will compensate you with a $50 Powell's Gift Card for your time._
 
-## Welcome Aboard! (0 - 45 Days)
+### Why?
 
-* Shadow and learn from lead instructor
-* Develop rapport with students
-* Actively engage with students during lab time 
-* Suggest ideas to refine or expand topics
-* Review and provide feedback on student code
-* Help instruction staff with prep work and presenting material
+We want to see how you handle yourself in front of real class. Requires organization, curration and time manangement. 
+Also let's us see how you interact with students as well as their response to you.
 
-## Settling In (45 - 90 Days) 
+## Lab Time
 
-* Lead instruction on a regular basis
-* Meet with students 1:1
-* Manage and leverage teaching assistants 
-* Make adjustments and improvements to current and future curriculum
-* Manage the learning management system for your course
-* Anticipate and identify student challenges and get in front of them
+We would look for you to spend an hour with each of our classes (this can be done back-to-back) during lab time. This entails
+reading the room, asking students prompting questions, and working directly with students who need help.
+_We will compensate you with a $100 Powell's Gift Card for your time._
 
-## Taking the Lead! (90 - 120 Days)
+### Why?
 
-- Own instruction of class
-- Represent Alchemy in tech community (meetups, sponsors, info sessions)
-- Own modern web development curriculum
-- Provide design guidance and leadership for AppLab
+We want to see how you read a room, approach students and interact one-on-one. We also are looking to see how you guide 
+students through issues as well as provide corrective feedback.
 
-## Making an Impact (120+)
+## Code Deep-Dive
 
-- Create and own style guides and design systems for AppLab
-- Provide advanced "devsign" instruction for Career Track students
-- Help evangelize Alchemy and support our mission of inclusivity in tech
-- Attend conferences or make a significant release of your open source project
+A 30 minute code discussion lead by you with one or two other instructor developers. Ideally a project of yours, but can be other
+code, blog post, or an open source project as well. Imagine we are new developers and you are there to introduce as to the code.
 
+### Why?
 
-Interested? Please email us at workwithus@alchemycodelab.com
+We want to get a sense of who you are as a technologist. How you talk about code, field questions, and 
+what you are interested in technically.
 
+## Interviews
+
+Interview time with staff including School Director, Career Services Director, and Instructors
+
+### Why?
+
+Get to know the team and have the team get to know you.
