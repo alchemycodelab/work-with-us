@@ -23,8 +23,6 @@ Technically, we’re looking for someone with plenty of real world experience us
 * Vanilla JavaScript, bonus for VueJS or React. 
 * Missing anything above? Looking for a willingness to learn what you don't know.
 
-We’re also very interested in diversifying our own staff and would like it even better if you identify with an underrepresented group.
-
 Here’s what we see your first few months looking like:
 
 ## Welcome Aboard! (0 - 45 Days)
