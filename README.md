@@ -2,9 +2,9 @@
 
 Want to help shape what web design and development means for a new generation of developers? Do you get excited about crafting accessible UI/UX? If so, Alchemy is hiring a Developer/Instructor and we’d love to talk with you!
 
-<img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 500px;" src="./lab-space-people-BW.jpg">
-
 You’ve made a big impact at your job, now it’s time to make a big impact in the community.
+
+<img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 500px;" src="./lab-space-people-BW.jpg">
 
 This position involves both instruction and design/development for our in-house consultancy. You do not need prior instruction experience, but should be kind, empathetic and patient as well as a strong communicator. Ability to mentor EQ, with good listening and cheerleader skills.
 
@@ -26,9 +26,11 @@ Technically, we’re looking for someone with plenty of real world experience us
 * Bonus for VueJS or React
 * Missing anything above? Looking for a willingness to learn what you don't know.
 
+## On the Job
+
 Here’s what we see your first few months looking like:
 
-## Welcome Aboard! (0 - 45 Days)
+### Welcome Aboard! (0 - 45 Days)
 
 * Shadow and learn from lead instructor
 * Develop rapport with students
@@ -37,7 +39,7 @@ Here’s what we see your first few months looking like:
 * Review and provide feedback on student code
 * Help instruction staff with prep work and presenting material
 
-## Settling In (45 - 90 Days) 
+### Settling In (45 - 90 Days) 
 
 * Lead instruction on a regular basis
 * Meet with students 1:1
@@ -46,19 +48,53 @@ Here’s what we see your first few months looking like:
 * Manage the learning management system for your course
 * Anticipate and identify student challenges and get in front of them
 
-## Taking the Lead! (90 - 120 Days)
+### Taking the Lead! (90 - 120 Days)
 
 - Own instruction of class
 - Represent Alchemy in tech community (meetups, sponsors, info sessions)
 - Own modern web development curriculum
 - Provide design guidance and leadership for AppLab
 
-## Making an Impact (120+)
+### Making an Impact (120+)
 
 - Create and own style guides and design systems for AppLab
 - Provide advanced "devsign" instruction for Career Track students
 - Help evangelize Alchemy and support our mission of inclusivity in tech
 - Attend conferences or make a significant release of your open source project
 
+## Alchemy Instructors
+
+Our instructors are master developers. They are actively involved in the tech community, both locally and digitally. As industry-insiders, they generously share insights, best practices, and truths about the professional world with our students.
+
+### Powerful Communicating
+
+Our instructors lecture to groups of 20-30 students and connect in one-on-ones with clarity and warmth.
+
+### Empathetic & Compassionate Mentorship
+
+We foster a safe and collaborative space for all learning styles.
+
+We’re present and available to students, both in their technical training and professional development.
+
+### Tech-Savvy and Digitally-Connected Visioneering
+
+In an industry that is constantly changing, we face forward and function with a finger on the pulse of what’s next.
+
+We leverage what we know with what excites us -- and radiate that passion in the classroom.
+
+### Growth Mindset
+
+Our instructors interpret and integrate feedback from students and fellow team members.
+
+As an innovation-driven code school, we strive for mastery in the classroom and in the field.
+
+### Professionalism
+
+We don’t teach “getting it to work.” Rather, we teach "doing software development" through the practice of writing quality code that can be sustained and maintained.
+
+## Next Steps
+
 Interested? Please email us at workwithus@alchemycodelab.com
+
+<img alt="Alchemy classroom" style="margin: 10px 0; max-width: 500px;" src="./classroom-bw.jpg">
 
