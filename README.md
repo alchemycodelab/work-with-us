@@ -6,7 +6,7 @@ You’ve made a big impact at your job, now it’s time to make a big impact in 
 
 This position involves both instruction and design/development for our in-house consultancy. You do not need prior instruction experience, but should be kind, empathetic and patient as well as a strong communicator. Ability to mentor EQ, with good listening and cheerleader skills.
 
-We have a strong history and commitment to running an inclusive program and boosting women, minorities, and other untapped talent into strong starting tech roles. Our team is invested in helping each student through their career transition, and we get a lot of satisfaction when they land their first role in tech. It’s why we do what we do, and fuels us to be excited to go to work each day. We hope you feel the same!
+We have a strong history and commitment to running an inclusive program and boosting women, people of color, LGBTQ+, veterans, and other untapped talent into strong starting tech roles. Our team is invested in helping each student through their career transition, and we get a lot of satisfaction when they land their first role in tech. It’s why we do what we do, and fuels us to be excited to go to work each day. We hope you feel the same!
 
 We also run an in-house consultancy, called “AppLab”, building MVP apps for entrepreneurs and startups targeting both web and mobile, backed by serverless technologies. It provides a great outlet for you to stay connected to developing technology projects while helping others realize their ideas.
 
@@ -20,7 +20,8 @@ Technically, we’re looking for someone with plenty of real world experience us
 * Web Animations and Transitions
 * Image and Font Optimization
 * Strong craft ethic and/or agile engineering practices
-* Vanilla JavaScript, bonus for VueJS or React. 
+* JavaScript: Vanilla, ESNext, DOM APIs or jQuery
+* Bonus for VueJS or React
 * Missing anything above? Looking for a willingness to learn what you don't know.
 
 Here’s what we see your first few months looking like:
