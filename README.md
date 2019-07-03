@@ -1,6 +1,8 @@
-# Alchemy Is Hiring a Web Developer/Instructor!
+# Alchemy Is Hiring a Frontend Instructor-Developer!
 
 Want to help shape what web design and development means for a new generation of developers? Do you get excited about crafting accessible UI/UX? If so, Alchemy is hiring a Developer/Instructor and we’d love to talk with you!
+
+<img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 500px;" src="./lab-space-people-BW.jpg">
 
 You’ve made a big impact at your job, now it’s time to make a big impact in the community.
 
