@@ -49,8 +49,7 @@ students through issues as well as provide corrective feedback.
 
 ## Code Deep-Dive
 
-A 30 minute code discussion lead by you with one or two other instructor developers. Ideally a project of yours, but can be other
-code, blog post, or an open source project as well. Imagine we are new developers and you are there to introduce as to the code.
+A 30 minute code discussion lead by you with one or two other instructor developers. Ideally a project of yours, but can be other code, blog post, or an open source project as well. Imagine we are new developers and you are there to introduce us to the code.
 
 ### Why?
 
