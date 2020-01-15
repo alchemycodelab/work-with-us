@@ -53,7 +53,7 @@ A 30 minute code discussion lead by you with one or two other instructor develop
 
 ### Why?
 
-We want to get a sense of who you are as a technologist. How you talk about code, field questions, and 
+We want to get a sense of who you are as a technologist, how you talk about code, field questions, and 
 what you are interested in technically.
 
 ## Interviews
