@@ -6,7 +6,7 @@ Alchemy Code Lab is a place where we train students, often with no experience in
 
 ## Who We Are
 
-Alchemy Code Lab has transformed hundreds of careers through training in today’s most in-demand skills. We’ve been rated as the #1 training in software development in the US by Switchup and offer training in FullStack JavaScript, teaching the most in-demand tools in addition to the ability to learn how to learn and work as a professional software developer. We are located in Portland, OR and offer live, on-line training to a national audience, and have a rebost and incredible community that encompasses alumni and industry partners.
+Alchemy Code Lab has transformed hundreds of careers through training in today’s most in-demand skills. We’ve been rated as the #1 training in software development in the US by [Switchup](https://www.switchup.org/bootcamps/alchemy-code-lab) and offer training in FullStack JavaScript, teaching the most in-demand tools in addition to the ability to learn how to learn and work as a professional software developer. We are located in Portland, OR and offer live, on-line training to a national audience, and have a rebost and incredible community that encompasses alumni and industry partners.
 
 ## Location
 
