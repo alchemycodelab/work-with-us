@@ -91,12 +91,18 @@ Here’s what we see your first few months looking like:
 - Help evangelize Alchemy and support our mission
 - Be a driving force in helping our students and graduates develop their professional skills and see them through to their first technical role
 
+## Compensation
+
+* Fully paid medical, dental, and vision for you plus partner and kids
+* Matching 401(k)
+* Salary DOE: $65K - $80K
+
 ## Next Steps
 
 Interested? Please email us at workwithus@alchemycodelab.com with the position you're applying for in the title, and let us know what interests you in working with us here at Alchemy and tell us about what excites you in the technology industry.
 
 ## More About Us
 
-Check out our [website](alchemycodelab.com) and [blog](alchemycodelab.com/blog) to learn more about our incredible community!
+Check out our [website](https://alchemycodelab.com) and [blog](https://alchemycodelab.com/blog) to learn more about our incredible community!
 
 <img alt="Alchemy classroom" style="margin: 10px 0; max-width: 500px;" src="./classroom-bw.jpg">
