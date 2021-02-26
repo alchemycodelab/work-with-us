@@ -26,7 +26,7 @@ The person who takes this role should value community and enjoy being of service
 
 - **Coach & Counselor** - Work with Director of Career Development + Outreach to ensure all job-seeking students and graduates have a smooth transition from the program to job seeking and that they feel supported during this process. Encourage imperfect action, reduce anxiety, and help students & graduates through their job search through clear communication and trust. Help students identify their personal goals as well as help them leverage past experience to best impact their job search, and educational experience.
 
-- **Content Delivery** - Educate students and graduates on skills needed to perform an effective job search. Lead both recurring one-on-one and classroom based programming. Work with Career Development & Outreach Director and staff to elevate training and be a key partner in curriculum. 
+- **Content Delivery** - Educate students and graduates on skills needed to perform an effective job search. Lead both recurring one-on-one and classroom based programming. Work with Career Development & Outreach Director and staff to elevate training and be a key partner in curriculum. Help develop relationships with hiring managers and recruiters to learn about how alchemy students and graduatess should present themselves which helps us inform us how to coach and guide our community to be successful in their job search. 
 
 - **Connector**  - Utilize and coordinate with the Alchemy community, and your own community, for resources as needed to acquire additional educational and hiring opportunities (mock technical interviews, project feedback, mentor hours, etc.)
 
@@ -93,10 +93,10 @@ Here’s what we see your first few months looking like:
 
 ## Next Steps
 
-Interested? Please email us at workwithus@alchemycodelab.com and let us know what interests you in working with us here at Alchemy and tell us about what excites you in the technology industry.
-
-<img alt="Alchemy classroom" style="margin: 10px 0; max-width: 500px;" src="./classroom-bw.jpg">
+Interested? Please email us at workwithus@alchemycodelab.com with the position you're applying for in the title, and let us know what interests you in working with us here at Alchemy and tell us about what excites you in the technology industry.
 
 ## More About Us
 
-Check out our [website](alchemycodelab.com) and [blog](alchemycodelab.com/blog).
+Check out our [website](alchemycodelab.com) and [blog](alchemycodelab.com/blog) to learn more about our incredible community!
+
+<img alt="Alchemy classroom" style="margin: 10px 0; max-width: 500px;" src="./classroom-bw.jpg">
