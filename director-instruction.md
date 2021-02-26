@@ -33,7 +33,7 @@ Since we founded Alchemy in 2016, increasing representation in tech among margin
 
 * Fully paid medical, dental, and vision for you plus partner and kids
 * Matching 401(k)
-* Salary DOE: $120K - $200K
+* Salary DOE: $130K - $225K
 
 ## Next Steps
 
