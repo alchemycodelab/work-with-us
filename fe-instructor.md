@@ -1,10 +1,10 @@
-# Lead Instructor: Full Stack JavaScript
+# Lead Instructor: Front End/Web Foundations
 
 Alchemy Code Lab is one of the most comprehensive software development training programs, ranked #1 in the U.S. by grad reviews on Switchup. In addition to producing consistently high graduate outcomes in job placement, tier, and starting salary. We specialize in training ambitious career switchers to become exceptional software developers. Our depth of instruction, emphasis on care and quality code, and supportive community produce outcomes that are truly unique among code schools. Our instructors are intelligent, excited about their craft, and very experienced - they're a big part of what makes us different.
 
 <img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 500px;" src="./lab-space-people-BW.jpg">
 
-We're looking to add a lead instructor to our team experienced in full stack development in JavaScript. Come help shape what web design and development, and an inclusive community, means for a new generation of developers.
+We're looking to add a lead instructor to our team experienced in frontend web development. Come help shape what web design and development, and an inclusive community, means for a new generation of developers.
 
 All instruction is currently being offered remotely. Alchemy is actively planning what hybrid tech training means in a post-pandemic world. We are open to instructors anywhere in the US, but let's discuss what our mutual long term future might look like.
 
@@ -40,12 +40,18 @@ Instructors lead classroom lecture and discussion, and work with their team of T
 
 ## Your Technical Experience
 
-- Modern JavaScript (ES11/ESNext), you keep track of new JavaScript features
-- Experience using Node.js to design and build maintainable systems
-- Experience with SQL and noSQL databases
-- Experience with React
+The web browser as an application development platform:
+
+- Into using HTML and CSS to produce solid browser layout and design aesthetics (RWD, Flexbox, CSS Grid).
+- Usability, semantics, and accessibility are your jam. 
+- You have opinions about CSS use and organization
+- Image and font optimization, web animations and transitions
+- JavaScript and the DOM. Ideally you're very comfortable, but we're willing to train you up in this area as long as you have a strong understanding of the browser environment.
 - Strong craft ethic and/or agile engineering practices
-- E2E and unit testing
+- Experience with basic React, or similar modern front-end library. The key is thinking in components.
+- Simple express backends and SQL, enough to introduce people to "the full stack". This is also an area where we are willing to train you up.
+- Maybe a designer background. Interested in design systems and component tools like Storybook
+
 
 ## On the Job
 
