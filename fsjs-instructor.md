@@ -88,4 +88,4 @@ Interested? Please email us at workwithus@alchemycodelab.com and let us know wha
 
 ## More About Us
 
-Check out our [website](alchemycodelab.com) and [blog](alchemycodelab.com/blog).
+Check out our [website](alchemycodelab.com) and [blog](alchemycodelab.com/blog) to learn more about our incredible community!.
