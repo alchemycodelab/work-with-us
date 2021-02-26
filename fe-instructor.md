@@ -2,7 +2,7 @@
 
 Alchemy Code Lab is one of the most comprehensive software development training programs, ranked #1 in the U.S. by grad reviews on Switchup. In addition to producing consistently high graduate outcomes in job placement, tier, and starting salary. We specialize in training ambitious career switchers to become exceptional software developers. Our depth of instruction, emphasis on care and quality code, and supportive community produce outcomes that are truly unique among code schools. Our instructors are intelligent, excited about their craft, and very experienced - they're a big part of what makes us different.
 
-<img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 500px;" src="./lab-space-people-BW.jpg">
+<img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 350px;" src="./lab-space-people-BW.jpg">
 
 We're looking to add a lead instructor to our team experienced in frontend web development. Come help shape what web design and development, and an inclusive community, means for a new generation of developers.
 
@@ -100,4 +100,4 @@ Interested? Please email us at workwithus@alchemycodelab.com with the position y
 
 Check out our [website](https://alchemycodelab.com) and [blog](https://alchemycodelab.com/blog) to learn more about our incredible community!
 
-<img alt="Alchemy classroom" style="margin: 10px 0; max-width: 500px;" src="./classroom-bw.jpg">
+<img alt="Alchemy classroom" style="margin: 10px 0; max-width: 350px;" src="./classroom-bw.jpg">

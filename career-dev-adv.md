@@ -2,7 +2,7 @@
 
 Alchemy Code Lab is a place where we train students, often with no experience in code or tech, to transition their career to tech in a short period of time. During their time learning to code, all students also develop themselves professionally learning to network, interview, and position themselves through resumes, online presence, such as LinkedIn, and good storytelling with guidance, coaching, and assignments from the Career Development department. Career Development also works with each student individually to give resume direction, mock interviews, catered advice, and to empower these folks, often viewed as having non traditional education, to enter a technical career. We also work to empower those that have been traditionally marginalized in tech to enter meaningful roles and create change, not only in the industry, but in their own lives.
 
-<img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 500px;" src="./lab-space-people-BW.jpg">
+<img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 350px;" src="./lab-space-people-BW.jpg">
 
 ## Who We Are
 
@@ -105,4 +105,4 @@ Interested? Please email us at workwithus@alchemycodelab.com with the position y
 
 Check out our [website](https://alchemycodelab.com) and [blog](https://alchemycodelab.com/blog) to learn more about our incredible community!
 
-<img alt="Alchemy classroom" style="margin: 10px 0; max-width: 500px;" src="./classroom-bw.jpg">
+<img alt="Alchemy classroom" style="margin: 10px 0; max-width: 350px;" src="./classroom-bw.jpg">

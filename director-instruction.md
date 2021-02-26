@@ -43,4 +43,4 @@ Interested? Please email us at workwithus@alchemycodelab.com with the position y
 
 Check out our [website](https://alchemycodelab.com) and [blog](https://alchemycodelab.com/blog) to learn more about our incredible community!
 
-<img alt="Alchemy classroom" style="margin: 10px 0; max-width: 500px;" src="./classroom-bw.jpg">
+<img alt="Alchemy classroom" style="margin: 10px 0; max-width: 350px;" src="./classroom-bw.jpg">
