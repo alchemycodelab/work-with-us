@@ -1,6 +1,6 @@
 # Lead Instructor: Front End/Web Foundations
 
-Alchemy Code Lab is one of the most comprehensive software development training programs, ranked #1 in the U.S. by grad reviews on [Switchup] (https://www.switchup.org/bootcamps/alchemy-code-lab). In addition to producing consistently high graduate outcomes in job placement, tier, and starting salary. We specialize in training ambitious career switchers to become exceptional software developers. Our depth of instruction, emphasis on care and quality code, and supportive community produce outcomes that are truly unique among code schools. Our instructors are intelligent, excited about their craft, and very experienced - they're a big part of what makes us different.
+Alchemy Code Lab is one of the most comprehensive software development training programs, ranked #1 in the U.S. by grad reviews on [Switchup](https://www.switchup.org/bootcamps/alchemy-code-lab). In addition to producing consistently high graduate outcomes in job placement, tier, and starting salary. We specialize in training ambitious career switchers to become exceptional software developers. Our depth of instruction, emphasis on care and quality code, and supportive community produce outcomes that are truly unique among code schools. Our instructors are intelligent, excited about their craft, and very experienced - they're a big part of what makes us different.
 
 <img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 350px;" src="./lab-space-people-BW.jpg">
 
