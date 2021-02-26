@@ -85,3 +85,7 @@ Here’s what we see your first few months looking like:
 Interested? Please email us at workwithus@alchemycodelab.com and let us know what interests you in working with us here at Alchemy and tell us about what excites you in the technology industry.
 
 <img alt="Alchemy classroom" style="margin: 10px 0; max-width: 500px;" src="./classroom-bw.jpg">
+
+## More About Us
+
+Check out our [website](alchemycodelab.com) and [blog](alchemycodelab.com/blog).
