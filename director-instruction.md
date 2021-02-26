@@ -29,6 +29,12 @@ Since we founded Alchemy in 2016, increasing representation in tech among margin
 - Experience with agile practices and methodologies preferred
 - Systems thinker with a history of taming processes
 
+## Compensation
+
+* Fully paid medical, dental, and vision for you plus partner and kids
+* Matching 401(k)
+* Salary DOE: $120K - $200K
+
 ## Next Steps
 
 Interested? Please email us at workwithus@alchemycodelab.com and let us know what interests you in working with us here at Alchemy and tell us about what excites you in the technology industry.
