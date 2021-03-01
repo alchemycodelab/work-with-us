@@ -14,7 +14,7 @@ All instruction is currently being offered remotely. Alchemy is actively plannin
 
 ## DE&I
 
-Since we founded Alchemy in 2016, increasing representation in tech among marginalized groups has been part of our mission. We have followed through on that commitment internally  by investing in DE&I training and by providing staff tools and support to foster an inclusive environment. This includes focusing on how we are structured and our policies and practices. We also have continuously focused on attracting and supporting the growth of participants in our program from a number of underrepresented communities. We have work still to do, but we are deeply committed to doing the work to make Alchemy and our industry more inclusive.
+Since we founded Alchemy in 2016, increasing representation in tech among marginalized groups has been part of our mission. We have followed through on that commitment internally by investing in DE&I training and by providing staff tools and support to foster belonging and community. This includes focusing on how we are structured and our policies and practices. We also have continuously focused on attracting and supporting the growth of participants in our program from a number of underrepresented communities. We have work still to do, but we are deeply committed to doing the work to make Alchemy and our industry more inclusive.
 
 ## The Role
 

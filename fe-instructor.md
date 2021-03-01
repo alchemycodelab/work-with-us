@@ -10,7 +10,7 @@ All instruction is currently being offered remotely. Alchemy is actively plannin
 
 ## DE&I
 
-Since we founded Alchemy in 2016, increasing representation in tech among marginalized groups has been part of our mission. We have followed through on that commitment internally  by investing in DE&I training and by providing staff tools and support to foster an inclusive environment. This includes focusing on how we are structured and our policies and practices. We also have continuously focused on attracting and supporting the growth of participants in our program from a number of underrepresented communities. We have work still to do, but we are deeply committed to doing the work to make Alchemy and our industry more inclusive.
+Since we founded Alchemy in 2016, increasing representation in tech among marginalized groups has been part of our mission. We have followed through on that commitment internally by investing in DE&I training and by providing staff tools and support to foster belonging and community. This includes focusing on how we are structured and our policies and practices. We also have continuously focused on attracting and supporting the growth of participants in our program from a number of underrepresented communities. We have work still to do, but we are deeply committed to doing the work to make Alchemy and our industry more inclusive.
 
 ## Responsibilities
 
@@ -22,7 +22,7 @@ Instructors lead classroom lecture and discussion, and work with their team of T
 - Take responsibility for fostering a safe and collaborative space 
 - Be present and available to students, both in their technical training and professional development
 - Offer honest and direct feedback, even when the message is hard to deliver
-- Stay connected to the industry keep up to date on technology
+- Stay connected to the industry, keeping up to date on technology
 - Leverage what you know with what excites you and bring that passion into the classroom
 - Interpret and integrate feedback from students and fellow team members
 - Uphold high standards for quality code and work
