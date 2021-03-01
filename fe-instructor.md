@@ -4,7 +4,7 @@ Alchemy Code Lab is one of the most comprehensive software development training 
 
 <img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 350px;" src="./lab-space-people-BW.jpg">
 
-We're looking to add a lead instructor to our team experienced in frontend web development. Come help shape what web design and development, and an inclusive community, means for a new generation of developers.
+We're looking to add a lead instructor to our team experienced in frontend web development. Come help shape what web design, development, and an inclusive community, means for a new generation of developers.
 
 All instruction is currently being offered remotely. Alchemy is actively planning what hybrid tech training means in a post-pandemic world. We are open to instructors anywhere in the US, but let's discuss what our mutual long term future might look like.
 
