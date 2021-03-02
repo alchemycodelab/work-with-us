@@ -4,11 +4,11 @@ Alchemy Code Lab is one of the most comprehensive software development training 
 
 <img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 350px;" src="./lab-space-people-BW.jpg">
 
-We're looking to add a lead instructor to our team experienced in full stack development in JavaScript. Come help shape what full stack development, and an inclusive community, means for a new generation of developers.
+We're looking to add a lead instructor to our team experienced in full stack development in JavaScript. Someone looking for the opportunity to crystalize their thoughts on best practices, tips, and patterns for successful full stack development in 2021. Come help shape what full stack development, and an inclusive community, means for a new generation of developers.
 
 All instruction is currently being offered remotely. Alchemy is actively planning what hybrid tech training means in a post-pandemic world. We are open to instructors anywhere in the US, but let's discuss what our mutual long term future might look like.
 
-## DE&I
+## DE&I 
 
 Since we founded Alchemy in 2016, increasing representation in tech among marginalized groups has been part of our mission. We have followed through on that commitment internally by investing in DE&I training and by providing staff tools and support to foster belonging and community. This includes focusing on how we are structured and our policies and practices. We also have continuously focused on attracting and supporting the growth of participants in our program from a number of underrepresented communities. We have work still to do, but we are deeply committed to doing the work to make Alchemy and our industry more inclusive.
 
