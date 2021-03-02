@@ -4,7 +4,7 @@ Alchemy Code Lab is one of the most comprehensive software development training 
 
 <img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 350px;" src="./lab-space-people-BW.jpg">
 
-We're looking to add a lead instructor to our team experienced in frontend web development. Come help shape what web design, development, and an inclusive community, means for a new generation of developers.
+We're looking to add a lead instructor to our team experienced in frontend web development. Someone looking for the opportunity to crystalize their thoughts on best practices, tips, and patterns for successful web development in 2021. Come help shape what web design, development, and an inclusive community, means for a new generation of developers.
 
 All instruction is currently being offered remotely. Alchemy is actively planning what hybrid tech training means in a post-pandemic world. We are open to instructors anywhere in the US, but let's discuss what our mutual long term future might look like.
 
@@ -33,25 +33,27 @@ Instructors lead classroom lecture and discussion, and work with their team of T
 
 - Deep industry experience that is typically found in candidates that have over three years experience working in a production software development environment, including guiding a product across multiple releases and versions and experience in how things are done across more than one company or team.
 - Insights based on both successes and failures, and qualities, both technically and collaboratively, that are important for an impactful developer 
-- Collaboration with both  colleagues and technology leaders to help solve problems and challenges, navigate trade-offs
+- Collaboration with both colleagues and technology leaders to help solve problems and challenges, navigate trade-offs
 - You like to think about how you think about code and process. An advocate for clean and organized code and artifacts. You likely have some stories to tell about messy code and projects too.
 -Track record of helping your teammates and sharing what you know. Also not afraid to ask for help, talk it out, or pick up something new
 - Have left behind "needing to know it all" by trusting in your own ability to figure it out and learn. 
 
 ## Your Technical Experience
 
-The web browser as an application development platform:
+You get the web browser as an application development platform! People come to you for your advice and opinions on:
 
-- Into using HTML and CSS to produce solid browser layout and design aesthetics (RWD, Flexbox, CSS Grid).
-- Usability, semantics, and accessibility are your jam. 
-- You have opinions about CSS use and organization
+- Using HTML and CSS to produce solid browser layout and design aesthetics (RWD, Flexbox, CSS Grid)
+- Usability, semantics, and accessibility 
+- CSS use and organization
 - Image and font optimization, web animations and transitions
+- Your strong craft ethic and/or agile engineering practices
+
+You also feel comfortable with:
+
 - JavaScript and the DOM. Ideally you're very comfortable, but we're willing to train you up in this area as long as you have a strong understanding of the browser environment.
-- Strong craft ethic and/or agile engineering practices
-- Experience with basic React, or similar modern front-end library. The key is thinking in components.
+- Experience with React, or similar modern front-end library. The key is thinking in components.
 - Simple express backends and SQL, enough to introduce people to "the full stack". This is also an area where we are willing to train you up.
 - Maybe a designer background. Interested in design systems and component tools like Storybook
-
 
 ## On the Job
 
