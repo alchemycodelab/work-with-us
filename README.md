@@ -17,9 +17,11 @@ hobby or passion you have outside of tech.
 We are looking to see how you process and organize information as well as your ability to "unpack" or take the 
 audience through the information. We ask you to pick a non-technical topic in order to have you engage new material
 versus a topic you may already be very familiar with presenting, and to make the topic accessible for our non-instructional 
-staff who will help evaluate.
+staff who will also be participating in the evaluation.
 
 This is also our first chance to see your demeaner and presentation style.
+
+You can use whatever supporting resources you want such as slides or live demos.
 
 ### Hints
 
@@ -29,7 +31,7 @@ Remember we are a vocational school and the goal of instruction is to enable peo
 ## Guest Lecture
 
 A one hour guest lecture in front of a class on a topic relevant to their curriculum. We will work with you to pick a topic
-appropriate for the class. _We will compensate you with a $50 Powell's Gift Card for your time._
+appropriate for the class. _We will compensate you with a $75 Powell's Gift Card for your time._
 
 ### Why?
 
@@ -40,7 +42,7 @@ Also let's us see how you interact with students as well as their response to yo
 
 We would look for you to spend an hour with each of our classes (this can be done back-to-back) during lab time. This entails
 reading the room, asking students prompting questions, and working directly with students who need help.
-_We will compensate you with a $100 Powell's Gift Card for your time._
+_We will compensate you with a $150 Powell's Gift Card for your time._
 
 ### Why?
 
@@ -54,7 +56,7 @@ A 30 minute code discussion lead by you with one or two other instructor develop
 ### Why?
 
 We want to get a sense of who you are as a technologist, how you talk about code, field questions, and 
-what you are interested in technically.
+what your technical interests.
 
 ## Interviews
 
