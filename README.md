@@ -17,7 +17,7 @@ Since we founded Alchemy in 2016, increasing representation in tech among margin
 
 ## More About Us
 
-Check out our [website](alchemycodelab.com) and [blog](alchemycodelab.com/blog) to learn more about our incredible community!
+Check out our [website](https://www.alchemycodelab.com/) and [blog](https://www.alchemycodelab.com/blog) to learn more about our incredible community!
 
 
 
