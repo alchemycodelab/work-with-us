@@ -4,8 +4,8 @@ Alchemy Code Lab is one of the most comprehensive software development training 
 
 ## Open Positions:
 
-- [Lead Instructor - FrontEnd/Web Foundations](./fe-instructor.md)
-- [Lead Instructor - Full Stack JavaScript](./fsjs-instructor.md)
+- [Senior Software Engineer - Lead Instructor: FrontEnd/Web](./fe-instructor.md)
+- [Senior Software Engineer - Lead Instructor: Full Stack JavaScript](./fsjs-instructor.md)
 - [Director of Instruction](./director-instruction.md)
 - [Career Development Advocate](./career-dev-adv.md)
 

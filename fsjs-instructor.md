@@ -1,12 +1,24 @@
-# Lead Instructor: Full Stack JavaScript
+# Senior Software Engineer - Lead Instructor: Full Stack JavaScript
 
 Alchemy Code Lab is one of the most comprehensive software development training programs, ranked #1 in the U.S. by grad reviews on [Switchup](https://www.switchup.org/bootcamps/alchemy-code-lab). In addition to producing consistently high graduate outcomes in job placement, tier, and starting salary. We specialize in training ambitious career switchers to become exceptional software developers. Our depth of instruction, emphasis on care and quality code, and supportive community produce outcomes that are truly unique among code schools. Our instructors are intelligent, excited about their craft, and very experienced - they're a big part of what makes us different.
 
-<img alt="Alchemy lab space with students" style="margin: 10px 0; max-width: 350px;" src="./lab-space-people-BW.jpg">
+## About 
 
-We're looking to add a lead instructor to our team experienced in full stack development in JavaScript. Someone looking for the opportunity to crystalize their thoughts on best practices, tips, and patterns for successful full stack development in 2021. Come help shape what full stack development, and an inclusive community, means for a new generation of developers.
+### Instructors at Alchemy
 
-All instruction is currently being offered remotely. Alchemy is actively planning what hybrid tech training means in a post-pandemic world. We are open to instructors anywhere in the US, but let's discuss what our mutual long term future might look like.
+Being an instructor at Alchemy is a next step for senior software engineers and developers. It is an opportunity to share accumulated experience and synthesize current best practices, designs, architectures, and approaches to modern software development. Candidates should be looking for new challenges that continue their interests in technology; experiencing a strong sense of community; and influencing a new generation of developers.
+
+_We are more interested in experienced technologists than instructional backgrounds._
+
+### Compensation
+
+* **Salary commensurate with industry experience: $100K - $170K**
+* Fully paid medical, dental, and vision for you plus partner and kids
+* Matching 401(k)
+
+### Where
+
+All instruction is currently being offered remotely. Alchemy is currently in Portland, OR and we are actively planning what hybrid tech training means in a post-pandemic world. We are open to instructors anywhere in the US, but let's discuss what our mutual long term future might look like.
 
 ## DE&I 
 
@@ -79,12 +91,6 @@ Here’s what we see your first few months looking like:
 
 - Help evangelize Alchemy and support our mission
 - Attend conferences or make a significant release of your open source project
-
-## Compensation
-
-* Fully paid medical, dental, and vision for you plus partner and kids
-* Matching 401(k)
-* Salary DOE: $100K - $170K
 
 ## Next Steps
 
