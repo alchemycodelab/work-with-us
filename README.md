@@ -40,14 +40,14 @@ Also let's us see how you interact with students as well as their response to yo
 
 ## Lab Time
 
-We would look for you to spend an hour with each of our classes (this can be done back-to-back) during lab time. This entails
-reading the room, asking students prompting questions, and working directly with students who need help.
+We would look for you to spend around two hours with our classes during lab time (this can be done same day as "Guest Lecture" if yo like). This entails
+working in the ta station, asking students prompting questions, and working directly with students who need help.
 _We will compensate you with a $150 Powell's Gift Card for your time._
 
 ### Why?
 
-We want to see how you read a room, approach students and interact one-on-one. We also are looking to see how you guide 
-students through issues as well as provide corrective feedback.
+We want to see how you approach students and interact one-on-one. We also are looking to see how you guide 
+students through issues as well as provide corrective feedback. And how students react to you.
 
 ## Code Deep-Dive
 
