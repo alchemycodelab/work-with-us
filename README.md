@@ -9,7 +9,7 @@ for you to get a sense of what the job is like "for real".
 
 ## Code Deep-Dive
 
-A 30-60 minute code discussion lead by you with one or two other instructor developers. Ideally a project of yours, but can be other code, blog post, or an open source project as well. Imagine we are new developers and you are there to introduce us to the code.
+A 30-60 minute code discussion lead by you with one or two other instructor developers. Ideally a project of yours, but can be other code, blog post, or an open source project as well. Imagine we are new developers and you are there to introduce us to the code. You are free to also write new code with us, but not strictly required. 
 
 ### Why?
 
