@@ -4,10 +4,7 @@ Alchemy Code Lab is one of the most comprehensive software development training 
 
 ## Open Positions:
 
-- [Senior Software Engineer - Lead Instructor: FrontEnd/Web](./fe-instructor.md)
 - [Senior Software Engineer - Lead Instructor: Full Stack JavaScript](./fsjs-instructor.md)
-- [Director of Instruction](./director-instruction.md)
-- [Career Development Advocate](./career-dev-adv.md)
 
 All instruction is currently being offered remotely. Alchemy is actively planning what hybrid tech training means in a post-pandemic world. We are open to instructors anywhere in the US, but let's discuss what our mutual long term future might look like.
 
