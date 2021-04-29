@@ -1,14 +1,16 @@
-# Senior Software Engineer - Lead Instructor: Full Stack JavaScript
+# Senior Software Engineer - Principal Instructor: Full Stack JavaScript
 
 Alchemy Code Lab is one of the most comprehensive software development training programs, ranked #1 in the U.S. by grad reviews on [Switchup](https://www.switchup.org/bootcamps/alchemy-code-lab). In addition to producing consistently high graduate outcomes in job placement, tier, and starting salary. We specialize in training ambitious career switchers to become exceptional software developers. Our depth of instruction, emphasis on care and quality code, and supportive community produce outcomes that are truly unique among code schools. Our instructors are intelligent, excited about their craft, and very experienced - they're a big part of what makes us different.
 
-## About 
+## About
 
 ### Instructors at Alchemy
 
 Being an instructor at Alchemy is a next step for senior software engineers and developers. It is an opportunity to share accumulated experience and synthesize current best practices, designs, architectures, and approaches to modern software development. Candidates should be looking for new challenges that continue their interests in technology; experiencing a strong sense of community; and influencing a new generation of developers.
 
 _We are more interested in experienced technologists than instructional backgrounds._
+
+We **are** looking for many years of experience doing application development and several years of recent modern web development (preferrably using React) on products over a significant amount of their lifecycle.
 
 ### Compensation
 
