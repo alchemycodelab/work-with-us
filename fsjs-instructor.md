@@ -14,7 +14,7 @@ We **are** looking for many years of experience doing application development an
 
 ### Compensation
 
-* **Salary commensurate with industry experience: $100K - $170K**
+* **Salary commensurate with industry experience: $110K - $180K**
 * Fully paid medical, dental, and vision for you plus partner and kids
 * Matching 401(k)
 
