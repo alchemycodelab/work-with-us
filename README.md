@@ -40,7 +40,7 @@ Remember we are a vocational school and the goal of instruction is to enable peo
 ## Guest Lecture
 
 A one hour guest lecture in front of a class on a topic relevant to their curriculum. We will work with you to pick a topic
-appropriate for the class. _We will compensate you with a $75 Powell's Gift Card for your time._
+appropriate for the class. _We will compensate you with a $75 Gift Card for your time._
 
 ### Why?
 
@@ -49,9 +49,9 @@ Also let's us see how you interact with students as well as their response to yo
 
 ## Lab Time
 
-We would look for you to spend around two hours with our classes during lab time (this can be done same day as "Guest Lecture" if yo like). This entails
+We would look for you to spend 1-2 hours with our classes during lab time (this can be done same day as "Guest Lecture" if yo like). This entails
 working in the ta station, asking students prompting questions, and working directly with students who need help.
-_We will compensate you with a $150 Powell's Gift Card for your time._
+_We will compensate you with a $75-$150 Gift Card for your time._
 
 ### Why?
 
